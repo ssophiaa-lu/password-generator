@@ -10,9 +10,18 @@ password-generator is a web app built with HTML, CSS, and JavaScript that allows
 
 ---
 
-## Features
+## Features and Demo
 - Allows users to generate passwords with symbols or no symbols
 - Re-clickable buttons
+
+  <div>
+    <a href="https://www.loom.com/share/26081d02824241b59aba2a9e230d505c">
+      <p>Videos | Library | Loom - 12 September 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/26081d02824241b59aba2a9e230d505c">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/26081d02824241b59aba2a9e230d505c-8fc4dcd17eed66a3-full-play.gif">
+    </a>
+  </div>
   
 ---
 
