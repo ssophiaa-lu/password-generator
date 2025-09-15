@@ -42,4 +42,4 @@ cd password-generator
 
 
 ## License
-Copyright 2025 Sophia Lu
+Copyright © 2025 Sophia Lu
